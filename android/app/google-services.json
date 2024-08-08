@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "316186592940",
+    "project_id": "restro-food-management",
+    "storage_bucket": "restro-food-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316186592940:android:78e44160bf8a42e86bc109",
+        "android_client_info": {
+          "package_name": "com.foodmanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtyyNT0_TOO6UypdgR0i-WVnJvBeIuk3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
